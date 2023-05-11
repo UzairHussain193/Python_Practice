@@ -4,3 +4,6 @@ def add(a,b):
 
 result = add(76,43)
 print(result)
+
+phrase = "Uzair Hussain"
+print(phrase.islower())
